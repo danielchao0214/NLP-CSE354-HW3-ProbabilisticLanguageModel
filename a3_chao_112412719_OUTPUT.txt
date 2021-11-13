@@ -1,0 +1,1 @@
+USAGE: python3 a3_lastname_id.py onesec_train.tsv
